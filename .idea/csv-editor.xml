@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/CSV/2020_MeteoCat_Estacions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/CSV/2022_MeteoCat_Detall_Estacions.csv">
           <value>
             <Attribute>

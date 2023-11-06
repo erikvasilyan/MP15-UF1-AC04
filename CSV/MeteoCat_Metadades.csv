@@ -1,4 +1,4 @@
-"CODI_VARIABLE","NOM_VARIABLE","UNITAT","ACRÒNIM"
+CODI_VARIABLE,"NOM_VARIABLE","UNITAT","ACRÒNIM"
 1000,"Temperatura mitjana diària","°C","TM"
 1001,"Temperatura màxima diària + hora","°C","TX"
 1002,"Temperatura mínima diària + hora","°C","TN"
